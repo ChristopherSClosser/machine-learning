@@ -32,4 +32,4 @@ The second is 1000 records from July to September, comparing calls to response l
 
 Data used: [SeaPDIR](https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp)
 
-For analysis, fields were isolated and then compared using [Matplotlib](http://matplotlib.org/) for visualization.
+For analysis, fields we re isolated and then compared using [Matplotlib](http://matplotlib.org/) for visualization.
